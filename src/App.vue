@@ -1,14 +1,9 @@
 <script setup lang="ts">
-for(let i =0;i<1;i++){
-  console.log("1");
-  
-}
 </script>
 
 <template>
-  <div>
-  </div>
+  <svg-icon name="phone"></svg-icon>
+
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
