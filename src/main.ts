@@ -4,7 +4,7 @@ import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
 // 配置国际化
 //@ts-ignore 用代码注释修补
-import zhCn from 'element-plus/dist/locale/zh-cn.mjs' 
+import zhCn from 'element-plus/dist/locale/zh-cn.mjs'
 // 此处出现报错的原因是因为,element-plus没有在这里ts的类型
 import App from './App.vue'
 // 获取应用实例对象
