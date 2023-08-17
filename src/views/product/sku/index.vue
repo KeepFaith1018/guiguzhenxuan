@@ -1,10 +1,6 @@
 <template>
-    <div>我是数据大屏</div>
+  <div>我是数据大屏</div>
 </template>
-<script lang="ts" setup>
+<script lang="ts" setup></script>
 
-</script>
-
-<style scoped>
-
-</style>
+<style scoped></style>

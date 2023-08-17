@@ -91,10 +91,10 @@ export const constantRoute = [
           title: '菜单管理',
           icon: 'Monitor',
         },
-      }
-    ]
-    },
-     {
+      },
+    ],
+  },
+  {
     path: '/product',
     component: () => import('@/layout/index.vue'),
     name: 'Product',
@@ -141,7 +141,7 @@ export const constantRoute = [
         },
       },
     ],
-  },      
+  },
 ]
 
 // //异步路由
